@@ -8,7 +8,7 @@ export default function Links() {
         <div className="main2">
             <footer>
                 <a href="https://www.github.com/pratik-scout"><img src={Photos} alt="Git" className="links" /></a>
-                <a href="https://www.instagram.com/para_scout/"><img src={Photos1} alt="Insta" className="links" /></a>
+                <a href="https://www.instagram.com/parasc0ut/"><img src={Photos1} alt="Insta" className="links" /></a>
                 <a href="https://www.linkedin.com/in/pratik-kumar-b82761228"><img src={Photos2} alt="LinkedIn" className="links" /></a>
 
             </footer>
